@@ -13,14 +13,14 @@ It calculates:
 It outputs flux for different observer times and frequency bands.
 
 Notes:
-1. Default values are for EP240414a.
-2. Jet/CSM parameters are 3e13cm and 0.03Msun but these could be adjusted freely.
+1. Default values are for EP250108a (redshift, distance etc., please adjust).
+2. Jet/CSM parameters are also set for EP250108a (please adjust).
 3. To speed up the run, adjust `n1` and `n2` (time grid), and the `nu_values` array (frequencies).
 4. The main paramters are: 
 E_eng (jet total energy)
 M_a (CSM mass)
 R_a (CSM radius)
-opacity (thomson scattering opacity)
+opacity (Thomson scattering opacity)
 5. The other jet parameters can be adjusted manually
 
 # MIT License
