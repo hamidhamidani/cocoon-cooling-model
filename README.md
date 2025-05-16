@@ -1,4 +1,7 @@
-Author: Hamidani
+Author(s): Hamid, Hamidani
+ORCID(s): 0000-0003-2866-4522
+Affiliation(s): Astronomical Institute, Graduate School of Science, Tohoku University, Sendai 980-8578, Japan
+
 Date: 06/05/2025
 
 Model based on Hamidani & Ioka (2021, 2023a, 2023b, 2024a, 2025a, 2025b).
